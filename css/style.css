@@ -1,0 +1,85 @@
+@import url(reset.css); 
+#initium {
+    color:#57494a
+}
+#first-chapter,
+#second-chapter,
+#third-chapter,
+#fourth-chapter,
+#fith-chapter,
+#first-chapter,
+#menu {
+    color:#65898e
+}
+
+#initium .main-italic-color {
+    color:#72929c
+}
+
+.main-italic-color + i {
+    color:#d19faf
+}
+
+.textblock {
+    color:#524968
+}
+
+mark {
+    color:#b34143
+}
+
+.paragraph + p {
+    color:#345fa5
+}
+
+.list * {
+    color:#584f6b
+}
+
+.list .list-text {
+    color:#799382
+}
+
+.italic-color.quote {
+    color:#ad4040
+}
+
+ol.navigation-list {
+    color:#2e4021
+}
+
+.bullet-point.chapter {
+    color:#9cb73d
+}
+
+.first-option .multicolor-one {
+    color:#76ac9f 
+}
+
+.first-option .multicolor-two {
+    color:#9cb73d
+}
+
+.first-option .multicolor-three {
+    color:#7c77ab
+}
+
+.first-option .page-link {
+    color:#f79a6f
+}
+
+.page-link + li {
+    color:#dd9bb3
+}
+
+.dim-words {
+    color:#4e555e
+}
+
+.light-text li {
+    color: #778899
+}
+
+.light-text .darker-text {
+    color:#626977
+}
